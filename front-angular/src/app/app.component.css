@@ -1,0 +1,27 @@
+/* div .contenedorpadre{
+    background-image:url(https://www.bluper.es/bluper/sites/default/files/styles/portadon_home/public/noticias/2018-03-10/nueva-serie-pokemon-2018.jpg?itok=-smrQ8La);
+    height: 100%;
+    width: 100%;
+} */
+
+
+
+.contenedor{
+    margin-left: 25%;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(10%, 50%, 20%, .5);
+    margin-top: 15%;
+}
+
+input{
+    width: 90%;
+    margin-left: 5%;
+}
+
+text{
+    margin-left: 5%;
+}
