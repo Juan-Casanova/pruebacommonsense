@@ -6,12 +6,15 @@ import { RouterModule } from "@angular/router";
 import {routes} from './routes'
 
 import { AppComponent } from './app.component';
-import { ApiComponent } from './compenents/api/api.component';
+import { ResultadoComponent } from './resultado/resultado.component';
+import { ConsultaComponent } from './consulta/consulta.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ApiComponent
+    ResultadoComponent,
+    ConsultaComponent
+    
   ],
   imports: [
     RouterModule.forRoot(routes),

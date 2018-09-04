@@ -1,0 +1,16 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vw;
+    background-image: url(https://image.freepik.com/vector-gratis/fondo-con-corazones-translucidos_1053-256.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    opacity: .5;
+}
